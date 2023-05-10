@@ -1,3 +1,7 @@
 #pip install -r requirments.txt
+#
+# 打包備忘錄
+# 打包pyinstaller -F -w  .\X.py .\Y.py --add-data ".\c2.onnx" --add-data ".\c1.onnx"  --icon=i.ico  
+# 或直接pyinstaller xxx.spec
 selenium
 ddddocr 
