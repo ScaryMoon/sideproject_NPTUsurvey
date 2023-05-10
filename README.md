@@ -1,5 +1,5 @@
 ![plot](./demo/survey.png)
-![plot](./demo/nptuMidFin.mp4)
+![plot](./demo/nptuMidFin_4gif.mp4)
 
 
 
