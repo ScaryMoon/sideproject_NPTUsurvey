@@ -1,5 +1,9 @@
 ![plot](./demo/survey.png)
-![plot](./demo/nptuMidFin_4gif.mp4)
+
+
+
+https://github.com/ScaryMoon/sideproject_NPTUsurvey/assets/93481378/f643f548-b3ff-4fc0-9759-5ad65765ae0d
+
 
 
 
